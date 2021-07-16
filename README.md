@@ -8,7 +8,7 @@ Skills: Vue JS / Laravel / PHP MVC OOP/ JS / HTML / CSS /SASS
 
 
 <a href="https://github.com/abdessamadsouilem/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdessamadsouilem&show_icons=true&include_all_commits=true&theme=material-palenight" alt="abdessamadsouilem's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdessamadsouilem&show_icons=true&count_private=true&include_all_commits=true&theme=material-palenight" alt="abdessamadsouilem's github stats" />
 </a>
 <a href="https://github.com/abdessamadsouilem/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
