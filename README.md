@@ -8,7 +8,7 @@ Skills: Vue JS / Laravel / PHP MVC OOP/ JS / HTML / CSS /SASS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdessamadsouilem)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdessamadsouilem&show_icons=true&count_private=true)
-)  
+
 
 ![Profile views](https://gpvc.arturio.dev/abdessamadsouilem)  
 
