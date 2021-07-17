@@ -15,11 +15,11 @@ Skills: Vue JS / Laravel / PHP MVC OOP/ JS / HTML / CSS /SASS
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdessamadsouilem&layout=compact&theme=material-palenight" />
 </a>
 
-<a href="https://github.com/abdessamadsouilem/github-readme-stats">
+<a href="https://github.com/abdessamadsouilem/vehicle_rental">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abdessamadsouilem&repo=vehicle_rental&theme=material-palenight" />
 </a>    
-<a href="https://github.com/abdessamadsouilem/abdessamadsouilem.github.io">
+<a href="https://github.com/abdessamadsouilem/portfolio">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abdessamadsouilem&repo=portfolio&theme=material-palenight" />
 </a>
