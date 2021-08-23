@@ -24,4 +24,7 @@ Skills: Vue JS / Laravel / PHP MVC OOP/ JS / HTML / CSS /SASS
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abdessamadsouilem&repo=portfolio&theme=material-palenight" />
 </a>
 
+![](https://komarev.com/ghpvc/?username=abdessamadsouilem&color=green)
+
+
 
