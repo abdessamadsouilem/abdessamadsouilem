@@ -19,10 +19,6 @@ Skills: Vue JS / Laravel / PHP MVC OOP/ JS / HTML / CSS /SASS /node js / react j
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abdessamadsouilem&repo=vehicle_rental&theme=material-palenight" />
 </a>    
-<a href="https://github.com/abdessamadsouilem/portfolio">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abdessamadsouilem&repo=portfolio&theme=material-palenight" />
-</a>
 
 
 
